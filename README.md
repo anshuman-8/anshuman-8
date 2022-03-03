@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓Student at Amrita Vishwa Vidyapeetham, Amritapuri
 - 👨🏻‍💻Member at [amFoss](https://amfoss.in/)
-- 🌱 I’m currently learning Web Develpment 
+- 🌱 I’m currently learning App Develpment 
 
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman-8&show_icons=true&theme=prussian) 
