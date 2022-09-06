@@ -8,18 +8,19 @@
 
 <details>
 <summary>Top language used</summary>
-<p align="center">
+<p >
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-8&hide=html,&layout=compact&theme=prussian"
     
 </p>
 
 </details>
 
-<center>
 
-### 🙋‍♂️ Let's Connect
 
-</center>
+<div align="center">
+<h3>🙋‍♂️ Let's Connect</h3>
+</div>
+
 <p align="center">
   <a href="https://anshuman-8.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="mailto:anshuman8swain@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
