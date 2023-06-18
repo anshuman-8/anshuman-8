@@ -1,8 +1,9 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I am Anshuman
 
-- 👨🏻‍🎓Student at Amrita Vishwa Vidyapeetham, Amritapuri
-- 👨🏻‍💻Member at [amFoss](https://amfoss.in/)
-- 🌱 I’m currently mastering Web Development🦖
+- 👨🏻‍🎓 Sophomore at Amrita Vishwa Vidyapeetham, Amritapuri.
+- 👨🏻‍💻 Member at [amFoss](https://amfoss.in/)
+- 🚀 Full Stack Web Developer.
+- 🌱 I'm currently working on Machine Learning and Artificial Intelligence.
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman-8&show_icons=true&theme=prussian)
 
@@ -32,7 +33,7 @@
 
 </p>
 
-![views](https://komarev.com/ghpvc/?username=anshuman-8&color=dc143c)
+![views](https://komarev.com/ghpvc/?username=anshuman-8&color=10507d)
 
 <!-- Footer -->
 <samp>
