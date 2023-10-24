@@ -1,21 +1,14 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, I am Anshuman
 
-- 👨🏻‍🎓 Sophomore at Amrita Vishwa Vidyapeetham, Amritapuri.
+- 👨🏻‍🎓 Undergrad at Amrita Vishwa Vidyapeetham, Amritapuri.
 - 👨🏻‍💻 Member at [amFoss](https://amfoss.in/)
+- 🦾 Working on Machine Learning and Artificial Intelligence.
 - 🚀 Full Stack Web Developer.
-- 🌱 I'm currently working on Machine Learning and Artificial Intelligence.
+- 🛠️ Always building 
 
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman-8&show_icons=true&theme=prussian)
 
-<details>
-<summary>Top language used</summary>
-<p >
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-8&hide=html,&layout=compact&theme=prussian"
-    
-</p>
-
-</details>
-
+![views](https://komarev.com/ghpvc/?username=anshuman-8&color=10507d)
 
 
 <div align="center">
@@ -33,19 +26,17 @@
 
 </p>
 
-![views](https://komarev.com/ghpvc/?username=anshuman-8&color=10507d)
 
 <!-- Footer -->
-<samp>
-  <p align="center">
-  <img width="235" height="145" src="./tenor.gif">
-  </p>
-  <p align="center">
-    ════ ⋆★⋆ ════
-        <br>
-         Happy Coding👨‍💻!
-        <br>
-    </p>
 
-</samp>
+<!--   <p align="center">
+  <img width="235" height="145" src="./tenor.gif">
+  </p> -->
+<!--   <p align="center"> -->
+<!--     ════ ⋆★⋆ ════ -->
+<!--         <br> -->
+<!--          Happy Coding👨‍💻! -->
+<!--         <br>
+    </p> -->
+
 
